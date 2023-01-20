@@ -2,7 +2,7 @@
 <img src="Hackathons Banner.jpg" style="width:1275px;height:158.25px">
 </td>
 
-# Create Your Own Fitness Tracker with MATLAB&reg Online&trade and MATLAB&reg Mobile&trade
+# Create Your Own Fitness Tracker with MATLAB&reg; Online&trade; and MATLAB&reg; Mobile&trade;
 This repository contains code and instructions to help you create your own fitness tracker with MATLAB Online and MATLAB Mobile for a Hackathon!
 
 ### Instructions.pdf
