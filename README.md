@@ -1,5 +1,5 @@
 <td>
-<img src="Hackathons Banner.jpg" style="width:1275;height:158.25">
+<img src="HackathonsBanner.jpg">
 </td>
 
 # Create Your Own Fitness Tracker with MATLAB Online and MATLAB Mobile
