@@ -12,7 +12,7 @@ Click here to open the code and repository in MATLAB Online:
 ### Instructions.pdf
 This is the guide with detailed steps to help your team use MATLAB Mobile and MATLAB Online to create your fitness tracker. We have also included a simple example that you can use to start with or draw inspiration from as you create your own solution to this challenge!
 
-### GradingRubric.docx
+### GradingRubric.pdf
 This document provides the grading rubric that judges will be using for the challenge. 
 
 ### ExampleModel.mlx 
