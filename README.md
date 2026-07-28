@@ -14,7 +14,7 @@ This is the guide with detailed steps to help your team use MATLAB Mobile and MA
 ### GradingRubric.pdf
 This document provides the grading rubric that judges will be using for the challenge. 
 
-### ExampleModel.mlx 
+### ExampleModel.m
 This is a MATLAB Live Script that compiles the workflows shown in the instructions document into a code example. It shows how to process data acquired from a MATLAB Mobile session in order to make meaningful conclusions, and can be edited and executed in MATLAB or MATLAB Online. In order to run this Live Script, make sure ExampleData.mat, ActivityLogs.mat, and timeElapsed.m are in the same folder. 
 
 ### ExampleData.mat 
