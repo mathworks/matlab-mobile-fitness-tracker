@@ -8,6 +8,13 @@ This repository contains code and instructions to help you create your own fitne
 Click here to open the code and repository in MATLAB Online:
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/matlab-mobile-fitness-tracker&file=ExampleModel.mlx)
+
+## Pre-work
+We recommend participants complete the following before the event if they are not familiar with these topics:
+* [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted)
+* [Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning)
+
+## Files
 ### Instructions.pdf
 This is the guide with detailed steps to help your team use MATLAB Mobile and MATLAB Online to create your fitness tracker. We have also included a simple example that you can use to start with or draw inspiration from as you create your own solution to this challenge!
 
